@@ -1,0 +1,19 @@
+{
+  "name": "react-native-text-styles",
+  "version": "1.0.0",
+  "description": "Define text style",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erismabu/react-native-text-styles.git"
+  },
+  "author": "Eris Mabu <eris.mabu@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erismabu/react-native-text-styles/issues"
+  },
+  "homepage": "https://github.com/erismabu/react-native-text-styles#readme"
+}
